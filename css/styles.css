@@ -1,0 +1,96 @@
+.radio-padding{
+  padding-top : 20px;
+}
+
+.donate-button {
+  text-align: center;
+  padding-bottom: 50px;
+}
+
+.donate-form  {
+  border: 2px;
+  padding: 30px;
+}
+
+.form-heading {
+  padding: 10px;
+}
+
+.container-fluid {
+  display: none;
+}
+
+.temp-class {
+  color: blue;
+}
+
+.left-pane {
+  padding-top : 20px;
+}
+
+.impact-icons{
+  float: left;
+  padding: 20%;
+}
+
+.impact {
+  padding : 10px 0;
+}
+
+.temp-class-1 {
+  font-family: 'Barlow Condensed', sans-serif;
+  color: #001234;
+  line-height : 1.1;
+  font-size: 40px;
+}
+.temp-class-2 {
+  color: #f15b43;
+  font-family: "Karla", sans-serif;
+  font-size: 16px;
+}
+
+.temp-class-3 {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px;
+  font-family: "Karla", sans-serif;
+  color: #000;
+  margin-bottom: 0;
+}
+.temp-class-4 {
+  font-size: 16px;
+  font-weight: 400;
+  font-family: "Karla", sans-serif;
+  color: #000;
+}
+
+.mb-15 {
+  margin-bottom: 15px;
+}
+
+.mb-30 {
+  margin-bottom: 30px;
+}
+
+
+.input-btn button {
+    width: 100%;
+    display: block;
+    border: 0;
+    border-radius: 0;
+    padding: 25px;
+}
+
+.theme_btn {
+    background: #fff212;
+    color:#000;
+}
+
+.active {
+
+}
+
+.navbar-customize {
+  background: #fff212;
+  color: #72bf44;
+}
